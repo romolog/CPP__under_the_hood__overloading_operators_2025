@@ -84,5 +84,5 @@ namespace fxp
 	// template <typename T> 
 	// 	Fixed	operator/(const Fixed lhs, const T rhs);
 	// template <typename T>
-	// 	Fixed	operator/(const T lhs, const Fixed rhs);				
+	// 	Fixed	operator/(const T lhs, const Fixed rhs);	//			
 }
