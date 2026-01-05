@@ -9,8 +9,12 @@ I "re-invented" a class of fixed point numbers with overloaded operators for it.
 - Linux (Ubuntu)
 - g++
 - make
+- VSCode
 
 ---
+
+### Explore
+You can explore my solution with VSCode or any other suitable IDE. 
 
 ### Build
 
